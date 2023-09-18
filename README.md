@@ -4,6 +4,6 @@
   <img src="https://www.freelogovectors.net/wp-content/uploads/2021/12/phantom-logo-freelogovectors.net_.png" width="auto" height="42"/>
   <img src="https://theme.zdassets.com/theme_assets/11354160/9b7490c9deeec505455726b72e4d1c24942041fd.png" width="auto" height="42"/>
   <img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="auto" height="42"/>
-  <img src="https://pbs.twimg.com/profile_images/1535656143988707330/Wg16GKQ2_400x400.png" width="auto" height="42"/>
+  <img src="https://avatars.githubusercontent.com/u/95070156?s=200&v=4" width="auto" height="42"/>
   
 </div>
