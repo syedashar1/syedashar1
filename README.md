@@ -6,5 +6,6 @@
   <img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="auto" height="42"/>
   <img src="https://avatars.githubusercontent.com/u/95070156?s=200&v=4" width="auto" height="42"/>
   <img src="https://seeklogo.com/images/P/polygon-matic-logo-1DFDA3A3A8-seeklogo.com.png" width="auto" height="42"/>
+  <img src="https://s2.coinmarketcap.com/static/img/coins/200x200/512.png" width="auto" height="42"/>
   
 </div>
