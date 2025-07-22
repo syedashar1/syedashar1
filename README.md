@@ -6,7 +6,7 @@
 <a href="https://www.fiverr.com/s/BRkdy17"><img width="auto" height="30" alt="weeeex" src="https://github.com/user-attachments/assets/ef1c3a07-4cf9-437d-9dfe-4f225217f1cb" />   </a> 
 <a href="https://www.fiverr.com/s/WErkPKB"><img width="auto" height="30" alt="tppps" src="https://github.com/user-attachments/assets/592908fc-7115-402d-a51c-f4a02e7f3adc" />   </a> 
 
-<br><br>
+<br>
 
 Click <a href="https://launchtool-sol.web.app/">here</a> to create solana meme token for 0.1 SOL, no hidden charges.
 
