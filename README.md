@@ -8,7 +8,7 @@
 
 <br><br>
 
-Click <a href="https://launchtool-sol.web.app/">here</a> to create solana meme coin for 0.1 SOL, no hidden charges.<br>
+Click <a href="https://aicoinlauncher.web.app/">here</a> to create solana meme coin for 0.1 SOL, no hidden charges.<br>
 Click <a href="https://token-cloner.web.app/">here</a> to clone any token from Pumpfun and Raydium for 0.2 SOL, no hidden charges.
 <br><br>
 
